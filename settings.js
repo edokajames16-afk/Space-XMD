@@ -6,12 +6,11 @@ const chalk = require('chalk')
 
 
 //contact details
-global.onwername = "ɪᴄᴏɴɪᴄ ᴛᴇᴄʜ"
-global.onwernumber = '263716304574' 
+global.onwername = James dev"
+global.onwernumber = '2349067083840' 
 global.BotName = '𝐒𝐏𝐀𝐂𝐄 𝐗𝐌𝐃'
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: iconic05"
-global.location = "Zimbabwe, Bulawayo, city"
 global.packname = 'ɢᴇɴᴀʀᴇᴛɪᴏɴ ʙʏ'
 global.author = '𝐒𝐏𝐀𝐂𝐄 𝐗𝐌𝐃'
 // Notice copy and follow official channel
